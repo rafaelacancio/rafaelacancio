@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/rafaelacancio/rafaelacancio/blob/main/avatar.png" width="200px" style="border-radius:50%;" />
+  <h1>Oiii! Eu sou a Rafaela Cancio 👋</h1>
+</div>
 
-<!--
-**rafaelacancio/rafaelacancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedora front-end em formação • Apaixonada por tecnologia 💻🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=rafaelacancio&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,git,github,c,cs,java,mysql" />
+
+</div>
+
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.instagram.com/rafaelacancio">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafaelacancio">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaelacancio@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
