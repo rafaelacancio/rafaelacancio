@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/rafaelacancio/rafaelacancio/blob/main/avatar.png" width="200px" style="border-radius:50%;" />
   <h1>Oiii! Eu sou a Rafaela Cancio 👋</h1>
 </div>
 
